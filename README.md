@@ -28,7 +28,6 @@ IMPORTANT: This tuner makes use of your PC's sound card to listen to the instrum
 I need to improve the peak detection technique...
 Maybe analyze the log of the FFT components amplitude vs. frequency (may bump up the small first freqs.) 
 or do a cleverer multi-peak analysis and guess the fundamental freq from all the peaks the software is sensing...   
-2) need to load the Railsback curve for pianos onto the "frequency tables" file. [It's already on the companion xls file].
 
 # Licensing
 I hereby license this tuner to you (including the source code) under the terms of the CC-BY-SA 4.0 International license. 
